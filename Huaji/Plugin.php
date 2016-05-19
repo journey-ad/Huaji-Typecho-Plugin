@@ -1,9 +1,9 @@
 <?php
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 /**
- * 晃来晃去的小滑稽。
+ * 滑来滑去的滑小稽。
  * 
- * @package 小滑稽
+ * @package 滑稽滑稽滑
  * @author journey.ad
  * @version 0.1
  * @link https://imjad.cn
@@ -42,7 +42,7 @@ class Huaji_Plugin implements Typecho_Plugin_Interface
 	 */
 	public static function config(Typecho_Widget_Helper_Form $form)
 	{
-	    echo '晃来晃去的小滑稽。<br/>原作者：<a href="http://blog.thkira.com/" target="_blank">兰陵</a>';
+	    echo '滑来滑去的滑小稽。<br/>原作者：<a href="http://blog.thkira.com/" target="_blank">兰陵</a>';
 	    $jquery = new Typecho_Widget_Helper_Form_Element_Radio(
         'jquery', array('0'=> '手动加载', '1'=> '自动加载'), 0, 'jQuery',
             '“<b>手动加载</b>”需要你手动加载jQuery，若选择“<b>自动加载</b>”，插件会自动加载jQuery，版本为1.9.1。');
