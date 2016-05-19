@@ -1,11 +1,11 @@
 # Huaji-Box-Typecho-Plugin
-A typecho plugin of Huaji
+A typecho plugin of Huaji http://blog.thkira.com/2016/05/marisa.html
 
 ## 介绍
 晃来晃去的小滑稽。
 
 ## 安装方法
-Download ZIP, 解压，将其中的 Huaji 文件夹放入你博客中的 /usr/plugins 目录，在后台启用即可
+Download ZIP， 解压，将其中的 Huaji 文件夹放入你博客中的 /usr/plugins 目录，在后台启用即可
 
 ## 使用方法
 一般情况下不需要进行额外的设置，若有需要请至后台参照说明进行调整
